@@ -1,0 +1,29 @@
+[15:44:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:44:27] [ServerMain/INFO]: No existing world data, creating new world
+[15:44:28] [ServerMain/INFO]: Loaded 1407 recipes
+[15:44:28] [ServerMain/INFO]: Loaded 1520 advancements
+[15:44:28] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:44:28] [Server thread/INFO]: Loading properties
+[15:44:28] [Server thread/INFO]: Default game type: SURVIVAL
+[15:44:28] [Server thread/INFO]: Generating keypair
+[15:44:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:44:28] [Server thread/INFO]: Using epoll channel type
+[15:44:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:44:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:44:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:44:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:44:28] [Server thread/INFO]: Preparing level "world"
+[15:44:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:44:34] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[15:44:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[15:44:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:44:36] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[15:44:37] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[15:44:37] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[15:44:37] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[15:44:38] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[15:44:38] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[15:44:39] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[15:44:39] [Server thread/INFO]: Time elapsed: 4827 ms
+[15:44:39] [Server thread/INFO]: Done (11.101s)! For help, type "help"
+[15:45:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
